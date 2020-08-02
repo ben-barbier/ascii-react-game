@@ -1,0 +1,6 @@
+/*
+!/src
+!/public/index.html
+!package*.json
+*.ico
+*.svg
